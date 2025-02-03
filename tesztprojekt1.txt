@@ -1,3 +1,4 @@
 egy
 kettő
 három
+négy 
